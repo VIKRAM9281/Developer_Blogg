@@ -1,0 +1,60 @@
+{
+    "HtmlArticle": [
+        {
+            "Title": "What Is HTML",
+            "Description": "HTML stands for HyperText Markup Language. It is the standard language used to create and design web pages. HTML structures content using elements such as headings, paragraphs, links, images, tables, and more. It works alongside CSS for styling and JavaScript for interactivity. HTML is essential for web development and is widely used in combination with other technologies to build modern websites and applications."
+        },
+        {
+            "Title": "History of HTML",
+            "Description": "HTML was first developed by Tim Berners-Lee in 1991 as a simple language to structure documents on the web. Over time, it has evolved through multiple versions, with HTML5 being the latest and most advanced version. HTML5 introduced new semantic elements, multimedia support, and better performance for modern web applications."
+        },
+        {
+            "Title": "HTML Elements and Tags",
+            "Description": "HTML consists of various elements and tags that define the structure of a webpage. Common elements include <h1> to <h6> for headings, <p> for paragraphs, <a> for links, <img> for images, <div> for divisions, and <span> for inline content. Each tag serves a unique purpose in organizing and displaying content."
+        },
+        {
+            "Title": "HTML Attributes",
+            "Description": "HTML attributes provide additional information about elements. They are used inside the opening tag and modify the behavior or appearance of an element. Common attributes include 'href' for links, 'src' for images, 'alt' for accessibility, 'class' for styling, and 'id' for unique identification."
+        },
+        {
+            "Title": "HTML Forms and Inputs",
+            "Description": "HTML forms are used to collect user input on websites. They include input fields like text boxes, checkboxes, radio buttons, dropdowns, and buttons. The <form> element wraps input fields and sends data to a server for processing. Forms are crucial for user interactions, such as login pages and contact forms."
+        },
+        {
+            "Title": "HTML Tables",
+            "Description": "HTML tables are used to display data in rows and columns. The <table> element contains <tr> (table rows), <td> (table data), and <th> (table headers). Tables can also include attributes like 'colspan' and 'rowspan' for better formatting. They are commonly used for presenting structured data."
+        },
+        {
+            "Title": "HTML5 Features",
+            "Description": "HTML5 introduced many new features, including semantic elements (<article>, <section>, <header>, <footer>), multimedia support (<audio>, <video>), form enhancements, and the canvas API for graphics. These features improve web accessibility, usability, and performance."
+        },
+        {
+            "Title": "HTML Semantic Elements",
+            "Description": "Semantic elements in HTML help define the meaning of web content. Examples include <header> for headers, <nav> for navigation, <section> for sections, <article> for articles, <aside> for side content, and <footer> for footers. These elements improve SEO and make web pages more readable."
+        },
+        {
+            "Title": "HTML Links and Navigation",
+            "Description": "Links in HTML are created using the <a> tag, which allows users to navigate between different web pages. The 'href' attribute specifies the URL. Links can open in new tabs using 'target=\"_blank\"'. Navigation menus are often built using lists (<ul>, <li>) combined with CSS for styling."
+        },
+        {
+            "Title": "HTML Multimedia",
+            "Description": "HTML allows embedding multimedia elements like images, audio, and video. The <img> tag is used for images, while <audio> and <video> elements support various media formats. HTML5 introduced built-in support for media playback without requiring external plugins."
+        },
+        {
+            "Title": "HTML and CSS Integration",
+            "Description": "HTML works closely with CSS (Cascading Style Sheets) to enhance the appearance of web pages. CSS allows styling elements by changing colors, fonts, layouts, and animations. CSS can be applied inline, internally within <style> tags, or externally via linked stylesheets."
+        },
+        {
+            "Title": "HTML and JavaScript",
+            "Description": "JavaScript is used alongside HTML to add interactivity to web pages. HTML provides the structure, while JavaScript enables dynamic content, animations, and user interactions. JavaScript can manipulate HTML elements using the Document Object Model (DOM)."
+        },
+        {
+            "Title": "HTML Accessibility (ARIA)",
+            "Description": "HTML includes accessibility features to improve usability for people with disabilities. ARIA (Accessible Rich Internet Applications) attributes enhance screen reader support and keyboard navigation. Proper use of alt text, labels, and semantic elements ensures inclusivity."
+        },
+        {
+            "Title": "HTML Best Practices",
+            "Description": "Writing clean and well-structured HTML improves website performance and accessibility. Best practices include using semantic elements, keeping code readable, optimizing images, avoiding inline styles, and ensuring mobile responsiveness."
+        }
+    ]
+}
